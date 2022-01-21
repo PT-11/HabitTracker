@@ -1,0 +1,90 @@
+
+a {
+    outline: 1px solid grey;
+    text-decoration: none;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    color: antiquewhite;
+}
+
+a:link, a:visited, a:focus {
+    background: #80CBC4;
+}
+
+a:hover {
+    background: orange;
+}
+
+body {
+    padding: 50px 25px 50px;
+}
+
+h4 {
+    color: antiquewhite;
+}
+
+href {
+    color: antiquewhite;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid grey;
+    background-color: #3AAfA9;
+    width: 100%;
+    padding: 5px 3px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.background-color {
+    background-color: #3AAfA9;
+}
+
+.form-center {
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+
+.header-font {
+    font-family: 'Rubik', sans-serif;
+    color: antiquewhite;
+}
+
+.header-center {
+    text-align: center;
+}
+
+.standard-text {
+    font-family: 'Nanum Gothic', sans-serif;
+    color: antiquewhite;
+}
+
+.submit-button {
+    background-color: #80CBC4;
+    border: 1px solid grey;
+    margin-top: 5px;
+    color: antiquewhite;
+}
+
+.table-hover tbody tr:hover td {
+    background-color: #DEF2F1;
+}
+
+.text-centre {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
