@@ -106,6 +106,7 @@ public class HabitDAO {
 
     public void completeHabit(int id) throws SQLException {
 
+        //make a separate method to get connection? **TO DO
         DataSource dataSource = new DataSource();
         connection = dataSource.getConnection();
         String sql = "delete from habits where id=?";
